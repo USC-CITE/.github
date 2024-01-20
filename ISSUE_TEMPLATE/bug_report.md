@@ -1,24 +1,25 @@
-# Found a bug and wanted to file an issue? 
+# Found a bug and wanted to file an issue?
 
-Please follow and fill out the format below before submission.
-
-We recommend you include **images** within this file or a **video feed** through a public link that we can access.
-
-If more information is required, we will attach a `needs more info` label to get your attention.
+Please follow and fill out the format below before submission. If more information is required, we will attach a `needs more info` label to get your attention.
 
 ## Expected Behavior
 
+<!-- Describe the behavior you expected if this bug were not present. -->
+
 ## Actual Behavior
 
-## Steps to Reproduce the Problem
+<!-- Describe the behavior because of this bug. -->
+<!-- Providing images or video feed would help by pasting its URL. -->
+
+## Steps to reproduce the problem
 
 1.
 2.
 
 ## Specifications
 
+<!-- Describe the environment you are in when you found the bug. -->
+<!-- Include possible factors like your operating system, firewalls, network, browser, whatever is applicable -->
+
 -   OS Version:
 -   OS Platform:
-
-
-
