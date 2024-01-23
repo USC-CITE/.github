@@ -1,10 +1,10 @@
 # How to create an issue?
 
-[Github has their own documentation on how to create one](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue#creating-an-issue-from-a-repository). 
+[GitHub has their own documentation on how to create one](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue#creating-an-issue-from-a-repository). 
 
 In this guide, we will go over the process of including templates for your issue description.
 
-> ![NOTE]
+> [!NOTE]
 > We are not using GitHub's form schema syntax. All of our issue and pull request templates are written in Markdown. 
 
 1. If templates exist, open one of them when creating a new issue. ![When creating a new issue, issue templates will be displayed as links to their corresponding template.](assets/how_to_create_an_issue/open_issue_templates.png)
