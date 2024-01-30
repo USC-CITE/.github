@@ -6,6 +6,7 @@
 **Types of change**
 
 <!--- What types of change does your work introduce? -->
+<!--- Place an 'X' between the brackets to check the item -->
 
 -   [ ] Bug fix (non-breaking change which fixes an issue)
 -   [ ] New feature (non-breaking change which adds or enhances functionality)
