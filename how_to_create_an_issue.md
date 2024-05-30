@@ -9,7 +9,7 @@ In this guide, we will go over the process of including templates for your issue
 
 1. If templates exist, open one of them when creating a new issue. ![When creating a new issue, issue templates will be displayed as links to their corresponding template.](assets/how_to_create_an_issue/open_issue_templates.png)
 
-2. When the template has loaded, click the button with the text `Raw` to display its raw content. ![When the template has loaded, click the button with the text `Raw` to display its raw content.](assets/how_to_create_an_issue/issue_template.png)
+2. When the template has loaded, click the button with the text `Code` (encircled in red) to display the raw template. Alternatively, you can download the file instead (encircled with blue). ![The 'Code' button in desktop's is located on the left side of the screen, next to the 'Preview' button.](assets/how_to_create_an_issue/issue_template.png)
 
 3. Copy the raw content of the template. ![The raw content of the template will display as normal text. Copy the text.](assets/how_to_create_an_issue/raw_issue_template.png)
 
